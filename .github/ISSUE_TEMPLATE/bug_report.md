@@ -1,4 +1,3 @@
-버그 수정 Issue Template 생성 양식
 ---
 name: "🐛 버그 수정"
 about: "INFREUM 시스템에서 발생한 오류 및 버그를 보고합니다."
