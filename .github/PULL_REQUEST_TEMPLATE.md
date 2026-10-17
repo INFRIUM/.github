@@ -1,4 +1,4 @@
-# 🔀 INFREUM Pull Request(PR) 작성 양식
+# 🔀 INFRIUM Pull Request(PR) 작성 양식
 
 ## 📌 1. 관련 Issue
 
@@ -111,6 +111,6 @@ Related to #
 - [ ] 작업 브랜치 → `develop` (기능 개발 및 버그 수정)
 - [ ] `develop` → `main` (통합 테스트 완료 및 안정 버전 반영)
 
-> INFREUM은 `main`, `develop`에 직접 Push하지 않고 PR을 통해 변경 사항을 반영합니다.
+> INFRIUM은 `main`, `develop`에 직접 Push하지 않고 PR을 통해 변경 사항을 반영합니다.
 >
 > 코드 리뷰는 권장하지만 필수 승인 인원은 0명이며, 담당자는 테스트 및 변경 사항 확인 후 직접 Merge할 수 있습니다.

@@ -1,20 +1,20 @@
-# INFREUM | GitHub 협업 규칙
+# INFRIUM | GitHub 협업 규칙
 
 > IoT·AI 기반 교량 구조 상태 모니터링 및 디지털 트윈 시스템
 
 ## 1. 프로젝트 개요
 
-INFREUM은 ESP32 기반 센서 데이터 수집, AI 이상 탐지, 구조 상태 분류, 위험도 평가, Django 백엔드 및 3D 디지털 트윈을 결합한 교량 모니터링 프로젝트입니다.
+INFRIUM은 ESP32 기반 센서 데이터 수집, AI 이상 탐지, 구조 상태 분류, 위험도 평가, Django 백엔드 및 3D 디지털 트윈을 결합한 교량 모니터링 프로젝트입니다.
 
 ### GitHub Repository
 
 | 파트 | Repository | 주요 역할 |
 |---|---|---|
-| HW | [HW](https://github.com/INFREUM/HW) | ESP32 및 센서 데이터 수집 |
-| AI① | [AI-1](https://github.com/INFREUM/AI-1) | Isolation Forest 이상 탐지 |
-| AI② | [AI-2](https://github.com/INFREUM/AI-2) | XGBoost 구조 상태 분류 및 위험도 계산 |
-| BE | [BE](https://github.com/INFREUM/BE) | Django API 및 데이터 관리 |
-| FE | [FE](https://github.com/INFREUM/FE) | 모니터링 대시보드 및 3D 디지털 트윈 |
+| HW | [HW](https://github.com/INFRIUM/HW) | ESP32 및 센서 데이터 수집 |
+| AI① | [AI-1](https://github.com/INFRIUM/AI-1) | Isolation Forest 이상 탐지 |
+| AI② | [AI-2](https://github.com/INFRIUM/AI-2) | XGBoost 구조 상태 분류 및 위험도 계산 |
+| BE | [BE](https://github.com/INFRIUM/BE) | Django API 및 데이터 관리 |
+| FE | [FE](https://github.com/INFRIUM/FE) | 모니터링 대시보드 및 3D 디지털 트윈 |
 
 ---
 
@@ -597,4 +597,4 @@ HW → AI① → AI② → BE → FE
 
 ---
 
-**INFREUM 팀원은 본 협업 규칙을 기준으로 GitHub 작업을 진행합니다.**
+**INFRIUM 팀원은 본 협업 규칙을 기준으로 GitHub 작업을 진행합니다.**

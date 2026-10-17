@@ -1,6 +1,6 @@
 ---
 name: "✨ 기능 개발"
-about: "INFREUM 신규 기능 개발 및 개선 작업"
+about: "INFRIUM 신규 기능 개발 및 개선 작업"
 title: ""
 labels: []
 assignees: []
